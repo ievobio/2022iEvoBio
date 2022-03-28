@@ -22,14 +22,18 @@ giving the people what they want.
 ## Speakers
 
 ### Education session:
-[Dr. Cissy Ballen](https://www.ballenlab.org/)
-[Dr. Arun Sethuraman](http://arunsethuraman.weebly.com/)
+[Dr. Cissy Ballen](https://www.ballenlab.org/)  
+
+[Dr. Arun Sethuraman](http://arunsethuraman.weebly.com/)  
+
 [Dr. April Wright](https://wright-lab.com/) and [Dr. Orlando Schwery](https://oschwery.github.io/)
 
 ## Career development session
 
-[Dr. Rachel Warnock](https://www.gzn.nat.fau.eu/palaeontologie/team/professors/rachel-warnock/)
-[Dr. Mike Rosenberg](https://www.rosenberglab.net/)
+[Dr. Rachel Warnock](https://www.gzn.nat.fau.eu/palaeontologie/team/professors/rachel-warnock/)  
+
+[Dr. Mike Rosenberg](https://www.rosenberglab.net/)  
+
 [Dr. Rob Denton](https://dentonlab.org/)
 
 ## NSF session
