@@ -36,6 +36,10 @@ giving the people what they want.
 
 [Dr. Rob Denton](https://dentonlab.org/)
 
+[Dr. Claudia Solis-Lemus](https://crsl4.github.io/) 
+
+[Dr. Rachel Schwartz](https://schwartzlaburi.github.io/) 
+
 ## NSF session
 
 Program officer list to come!
