@@ -21,7 +21,7 @@ giving the people what they want.
 
 ## Speakers
 
-### Education session 9:00 AM - 10:30 AM:
+## Education session 9:00 AM - 10:30 AM:
 [Dr. Cissy Ballen](https://www.ballenlab.org/)  
 
 [Dr. Arun Sethuraman](http://arunsethuraman.weebly.com/)  
