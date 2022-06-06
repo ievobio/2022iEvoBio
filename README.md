@@ -21,14 +21,14 @@ giving the people what they want.
 
 ## Speakers
 
-### Education session:
+### Education session 9:00 AM - 10:30 AM:
 [Dr. Cissy Ballen](https://www.ballenlab.org/)  
 
 [Dr. Arun Sethuraman](http://arunsethuraman.weebly.com/)  
 
 [Dr. April Wright](https://wright-lab.com/) and [Dr. Orlando Schwery](https://oschwery.github.io/)
 
-## Career development session
+## Career development session 11:00 AM - 12:30 PM.
 
 [Dr. Rachel Warnock](https://www.gzn.nat.fau.eu/palaeontologie/team/professors/rachel-warnock/)  
 
@@ -40,10 +40,10 @@ giving the people what they want.
 
 [Dr. Rachel Schwartz](https://schwartzlaburi.github.io/) 
 
-## NSF session
+## NSF session 1:30 PM - 2:45 PM
 
 Program officer list to come!
 
-# Birds of a Feather
+# Birds of a Feather 3:15 - 5 PM
 
 Every year, iEvoBio has lively discussions. Is something on your mind about doing computational evolutionary biology? An issue with how to git your git workflow working? Trouble grading student code notebooks? [File an issue](https://github.com/ievobio/2022iEvoBio/issues), and we'll put it on our end-of-the-day Birds of a Feather discussion roster! This is an open environment for researchers, educators, and students to connect and foster discussion.
