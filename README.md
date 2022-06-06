@@ -15,7 +15,7 @@ when setting up a computational evolutionary biology lab?
 
 Our education session this year will focus on the connection between teaching and
 research. How can we effectively onboard undergraduates into our labs via coursework? But also, how can we do research with our classes? Domain-based education research and pedagogy research will feature prominently in this session.
-<<<<<<< HEAD
+
 Finally, we will have a bird-of-a-feather discussion. Previous years have asked for more time to do structured discussions and networking on the above topics. So, we're
 giving the people what they want.
 
